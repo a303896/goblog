@@ -1,0 +1,8 @@
+tyysupersign\application\extra\redis.php
+tyy_api\config\common.inc.php
+php_dev\release.tianyuyou.com\public\api\config\common.inc.php
+
+从自建Redis迁移至阿里云Redis
+https://help.aliyun.com/document_detail/47896.html
+校验迁移后的数据
+https://help.aliyun.com/document_detail/116887.html?spm=a2c4g.11186623.6.724.5b9a966aqG6l2q
